@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "user_id": 1,
+            "name": "Pau Stack",
+            "email": "pau@stkb.com",
+            "username": "pau"
+        },
+        {
+            "user_id": 2,
+            "name": "Valery Stack",
+            "email": "valery@stkb.com",
+            "username": "valeryantonella"
+        },
+        {
+            "user_id": 3,
+            "name": "Washington Stack",
+            "email": "washington@stkb.com",
+            "username": "washington"
+        },        {
+            "user_id": 4,
+            "name": "Fernando Stack",
+            "email": "fernando@stkb.com",
+            "username": "fer"
+        }, 
+        {
+            "user_id": 5,
+            "name": "Marceline Stack",
+            "email": "marce@stkb.com",
+            "username": "marce"
+        }
+    ],
+
+    "tasks": [
+        {
+            "task_id": 1,
+            "title": "Read a book",
+            "description": "Read a book about programming",
+            "status": "done",
+            "user_id": 1
+        },
+        {
+            "task_id": 2,
+            "title": "Read training material",
+            "description": "Read intership guidelines and training material",
+            "status": "pending",
+            "user_id": 2
+        },
+        {
+            "task_id": 3,
+            "title": "Read training material",
+            "description": "Read intership guidelines and training material",
+            "status": "done",
+            "user_id": 3
+        },
+        {
+            "task_id": 3,
+            "title": "Review json data",
+            "description": "Review json data for the project",
+            "status": "pending",
+            "user_id": 3
+        }
+    ]
+}
