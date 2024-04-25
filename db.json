@@ -37,28 +37,28 @@
             "title": "Read a book",
             "description": "Read a book about programming",
             "status": "done",
-            "user_id": 1
+            "userId": 1
         },
         {
             "id": 2,
             "title": "Read training material",
             "description": "Read intership guidelines and training material",
             "status": "pending",
-            "user_id": 2
+            "userId": 2
         },
         {
             "id": 3,
             "title": "Read training material",
             "description": "Read intership guidelines and training material",
             "status": "done",
-            "user_id": 3
+            "userId": 3
         },
         {
             "id": 3,
             "title": "Review json data",
             "description": "Review json data for the project",
             "status": "pending",
-            "user_id": 3
+            "userId": 3
         }
     ]
 }
